@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+}
+
+header{
+    text-align: center;
+    background-color: antiquewhite;
+    width:100%;
+    height:100px;
+    
+}
+
+.h1header {
+    
+    margin: 20;
+    border: 0;
+    padding: 0;
+}
+
+.rodape{
+    margin: 50;
+    background-color: antiquewhite;
+    
+};
+
+.conteudo{
+    text-align: center
+
+}
+img {
+    border-radius: 50%;
+}
+
+;
+
+
+   
+
